@@ -1,0 +1,16 @@
+/* coments with crtl +k+c */
+/* remove coment with crtl +k+u */
+.Sidebar-button{
+    display: flex;
+}
+.icon-img{
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+    margin-bottom: 60px;
+    padding: 5px;
+}
+.option{
+    color: #ffffff;
+    font-size: 16px;
+}
